@@ -1,3 +1,4 @@
+/* eslint-disable default-case */
 import { useReducer } from "react";
 import "./App.css";
 import DigitButton from "./DigitButton";
